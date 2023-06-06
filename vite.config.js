@@ -39,7 +39,7 @@ export default defineConfig({
     // https: true,
     proxy: {
       '/api': {
-        target: 'http://188.120.233.52:5001',
+        target: 'https://my-diary-rest.onrender.com',
         changeOrigin: true
       },
     }
