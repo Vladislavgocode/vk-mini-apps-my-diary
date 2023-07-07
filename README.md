@@ -40,6 +40,17 @@ pnpm build
 ```
 ### Run Vk Tunnel
 
+```
+# yarn
+yarn tunnel
+
+# npm
+npm run tunnel
+
+# pnpm
+pnpm tunnel
+```
+
 
 ### Customize configuration
 
